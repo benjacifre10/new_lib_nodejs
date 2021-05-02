@@ -1,0 +1,17 @@
+{
+  "name": "new_lib_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjacifre10/new_lib_nodejs.git"
+  },
+  "keywords": [],
+  "author": "Benjamin Cifre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benjacifre10/new_lib_nodejs/issues"
+  },
+  "homepage": "https://github.com/benjacifre10/new_lib_nodejs#readme"
+}
