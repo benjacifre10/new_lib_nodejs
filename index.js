@@ -4,7 +4,7 @@ const nodemailer = require('nodemailer');
 const send_email = (options) => {
 
     // async..await is not allowed in global scope, must use a wrapper
-    async const main = () => {
+    const main = async () => {
         // create reusable transporter object using the default SMTP transport
         let transporter = nodemailer.createTransport({
             host: options.aws.host, //SMTP host
