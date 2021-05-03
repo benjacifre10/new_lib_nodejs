@@ -13,5 +13,8 @@
   "bugs": {
     "url": "https://github.com/benjacifre10/new_lib_nodejs/issues"
   },
-  "homepage": "https://github.com/benjacifre10/new_lib_nodejs#readme"
+  "homepage": "https://github.com/benjacifre10/new_lib_nodejs#readme",
+  "dependencies": {
+    "nodemailer": "^6.6.0"
+  }
 }
